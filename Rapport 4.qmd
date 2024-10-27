@@ -1,0 +1,50 @@
+---
+title: "Rapport 4"
+format: html
+editor: visual
+bibliography: "bibliografi"
+---
+
+## Rapport 4
+
+Lars Øvrebø
+
+## Studie design
+
+### Introduksjon
+
+Denna rapporten har som formål å analysere og vurdere ulike studiedesign brukt av fem andre forskningsstudier som ser på effekten av blokkperiodisering på utholdenhetsprestasjonen. Blokkperiodisering har som formål å strukturere utholdenhetstrening i bestemte mønstre som skal påvirke kondisjonen på ein effektiv og mulig bedre måte enn meir tradisjonell stabil trening med mindre variasjoner. Det er blitt ein populær treningsmetode for å forbedre utholdenhetsprestasjonen og blir brukt av mange utholdenhetsutøvarar i dag.
+
+Analysa i denna rapporten vil evaluere styrkar opp mot svakheter i dei utvalgte fem studiane ved hjelp av QLAMRI-metoden, med fokus på studiedesign og statistiske testar som skal besvare spørsmåla forfattarane ønsker å svare på.
+
+### Metode 
+
+Metoden som blir brukt i rapporten for å analysere og vurdere studiene er QLAMRI-metiden som er ein metode som hjelper til med å dele opp analysene i komponenter som vurderingane skal basere seg frå. Komponentane som blir brukt i metoden er spørsmål (questions), alternativ, logik, metode og slutningar (inferens).
+
+Stundiene som ble analysert er (Rønnestad et al., 2022),
+
+### Resultat 
+
+Studien til Rønnestad et. al. (2022) spurte om kva som var effektane av ein 6 dagers blokk med høgintensiv trening (HIT) og ein påfølgande 5 dagers treningsreduksjon på prestasjonsvariabler for ein langrennsløpar målt opp mot vanleg trening. Dei har ein hypotese om at blokka med påfølgande kvile vil gi bedre responsar i treningsvariablane enn den vanlige treninga. Logikken for hypotesen taler for at ein kort intensiv høyintensitetsperiode utan at belastninga blir for stor vil ha meir gunstig påvirkning på utholdenhetsfaktorer som VO2max og blodlaktatterskel enn vanlig trening. Metoden studien ble gjennomført på var å dele i to grupper med godt trente langrensutøvere der ei blokk-gruppe på trente blokk og ei kontroll-gruppe trente vanleg. det var like mange utøvara i kvar gruppe, VO2maks var lik for begge grupper før intervensjonen. Statistiske analyser ved hjelp av ANCOVA test brukte p-verdien for å avgjere signifikante resultat for samanlikninga av treningsresponsane til gruppane. Resultatene viste at blokk gruppa hadde større forbedringer i hastighet siste min av VO2max test og ved blodlaktatterskel satt til 4mmol/L-1 samanlikna med kontroll, samt at blokk gruppa reduserte sine verdier for respirasjonsvekslingsforhold, blodlaktatkonsentrasjon, hjertefrekvens og opplevd annstrengelse. Forfatterne konkluderer med at resultatene forteller at blokk gruppen har bedre resultater etter inervensjonsperioden enn gruppen som trener vanlig.
+
+(Diskusjon) Rønnestad et. al. (2022) har ein studie med eit relativt lite utvalg på 24 utøvere fordelt på to grupper som kan vere negativt for studiens statistiske styrke. Det litle utvalget er godt trente langrennsløpara som er ein relevant gruppe som kan dra stor nytte av temaet. Utvalget gir ein god overføringsverdi for liknande utøvarar. Forskerane benytter seg av gode tester for å måle VO2maks og laktat som er fine måter å måle endringer i utholdenhetsprestasjon. Det fins og alternative forklaringer som kan ha innvirkning på resultatene som er vanskelig å kontrolere for, men det er mulighet for at ulik treningshistorikk, genetikk, ernering, søvn, stressnivå og dagsform påvirker resultater i slike studier.
+
+Ein tidligare blokk studie frå Rønnestad et. al. (2012) ønsker å finne svar på om det er bedre fysiologiske og prestasjons effekter av ein 12 veke lang blokk periode med trening både på HIT, moderat intensitet (MIT) og låg intensitet (LIT) enn tradisjonell periodisering på syklisk auke i treningsbelastning for trente syklistar. Logikken bak temaet kan vere at treningsresponsane til kvar enkelt blokk periode kan vere bedre då ein får konsentrert større stimuli på spesifikke intensiteter for kvar periode. Metoden studien blei gjennomført med var ved randomisert kontrolert design der 30 trente syklister fordelt på to grupper som trente endten blokk eller vanlig trening. Dei to gruppanes resultat vart samanlikna med hjelp av p-verdi for å forklare resultater frå statistisk analyse. Resultata viste at begge grupper hadde forbedringar i utholdenhetsprestasjon. forskjellane mellom gruppane var at blokk gruppa hadde større auke i raude blodceller, mens gruppa med vanleg trening hadde større kapilærtilpasningar i muskelfribre.
+
+(Diskusjon) Studien til Rønnestad et. al. (2012) konkluderer med blokk periodisering var best for å auke mengda raude blodceller, og den vanlege treninga var best for bedre kapilærtilpassningar i muskelfibre, men det var ikkje forskjell mellom effektane på utholdenhetsprestasjon. Alternative forklaringar på resultat frå ein slik studie kan vere at det vil vere individuelle forskjeller til responsen på treningsmengda, treningshistorikken til kvar enkelt, søvn, ernering og restitusjon.
+
+Ein masterstudie av (Bakken, 2013) såg på korleis man best skulle organsiere utholdenhetstrening og svare på spørsmålet om kva som var best av blokkperiodisering eller tredisjonell periodisering på trente langrennsløpara og skitytara. Hypotesen sa at blokkpriodisering vile gi bedre effekt på VO2max og utholdenhetsprestasjon enn tredisjonell periodisering. Alternative forklaringer som kan påvirke ein slik studie kan vere individuelle treningsresponser, ulik restitusjon, ernæring, søvn. Logikken bak hypotesen er at ein meir konsentret periode for bestemte intensiteter vil gi eit stimuli som har større fysiologiske tilpassningar. Studien var designet slik at ei blokk gruppe på 10 personer og ei kontroll gruppe på 9 personer vart samanlikna over ein 5 veker treningsintervensjon for å undersøke forskjellane på blokk og vanleg trening. Denne studien brukte 14 menn og 5 kvinner som var godt trente på ski som forsøkspersoner der begge grupper inneholdt både menn og kvinner. Forskjellane mellom gruppene på trening var at blokk gruppa hadde stor variasjon i anntall HIT økter per veke frå 5-1, imotsetning til kontroll gruppa som hadde 2 HIT økter kvar veke. Studien brukte p-verdi frå t-test til å avgjere resultater frå statistisk analyser. Resultatet viste at bolk gruppa hadde forbedringar i VO2maks og tid til utmattelse imotsetning til kontroll gruppa som hadde ingen endring.
+
+(Diskusjon) Masterstudien til (Bakken, 2013) konkluderte med at blok periodisering såg ut til å ha bedre responser for utholdenhetsprestasjonen enn konrtollgruppa over ein fem veker lang periode, og at det kan tyde på at det er ein meir effektiv måte å trene på for utholdenhetsutøvarar. Temaet og utvalget studien tar for seg passer godt sammen til å forklare kva som kan anbefalast for utholdenhetsutøvarar i langrenn og skiskytting som har fokus på treningsoptimalisering. Studien er designet slik at det totale trenings volumet er kontrollert som kan vere bra for å isolere undersøkelsen av treninga av blokk mot vanleg trening. Ein svakhet med studien vil vere eit lite utvalg i kvar gruppe og særleg få jenter som gjer studiens statistiske styrke mykje svarare enn om det hadde vert dobbelt så mange.
+
+McGwley et. al. (2017) skal svare på kva distribuering av HIT trening for trente unge langrennsløparar som er best for prestasjonsframgang av blokk og jevnlig fordeling. Hypotesen er at det vil bli større forbedringar i VO2maks og utholdenhetsprestasjon for blokk trening enn jevnlig trening. Alternative forklaringar til dataen kan vere individuell treningsrespons, ulik restitusjon, ernæring og søvn. Logikken bak er at konsentrert blokk av HIT vil gi eit større stimuli over kort tid med bedre treningsrespons. Denna studeien brukte eit randomisert crossover design med 20 trente unge langrennsløparar (10 gutar og 10 jenter). Studien vart gjennomført ved to grupper som over tre veker var gjennom begge periodiseringsmetodane.
+
+Referanser
+
+Almquist NW, Eriksen HB, Wilhelmsen M, Hamarsland H, Ing S, Ellefsen S, Sandbakk Ø, Rønnestad BR, Skovereng K. No Differences Between 12 Weeks of Block- vs. Traditional-Periodized Training in Performance Adaptations in Trained Cyclists.ndefined Front Physiol. 2022 Mar 1;13:837634. doi: 10.3389/fphys.2022.837634. PMID: 35299664; PMCID: PMC
+
+Bakken, T. A. (2013). *Effects of block periodization training versus traditional periodization training in trained cross country skiers* (Graduate essay No. 62). The Swedish School of Sport and Health Sciences. Master program in sport science: 2012-2013. Supervisor: Bent Rønnestad. Examiner: Karin Söderlund.
+
+Rønnestad BR, Bjerkrheim KA, Hansen J, Mølmen KS. A 6-day high-intensity interval microcycle improves indicators of endurance performance in elite cross-country skiers. Front Sports Act Living. 2022 Nov 9;4:948127. doi: 10.3389/fspor.2022.948127. PMID: 36439620; PMCID: PMC9682127.
+
+McGawley K, Juudas E, Kazior Z, Ström K, Blomstrand E, Hansson O, Holmberg HC. No Additional Benefits of Block- Over Evenly-Distributed High-Intensity Interval Training within a Polarized Microcycle. Front Physiol. 2017 Jun 13;8:413. doi: 10.3389/fphys.2017.00413. PMID: 28659826; PMCID: PMC5468439.
